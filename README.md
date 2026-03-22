@@ -192,6 +192,12 @@ CLIENT_ID=your_google_client_id
 CLIENT_SECRET=your_google_client_secret
 ```
 
+### Login Credentials `.env`
+```env
+AUTHOR= { enmail: priya@gmail.com, password: 1234}
+ADMIN= { enmail: rahul@gmail.com, password: 1234}
+```
+
 ### Frontend `.env`
 
 ```env
