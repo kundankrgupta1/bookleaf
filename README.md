@@ -1,6 +1,6 @@
-# 📚 BookLeaf — Self-Publishing Platform
+# 📚 BookLeaf — AI Assisted Support System
 
-BookLeaf is a full-stack self-publishing platform that connects **Authors** and **Admins** through a structured workflow covering book management, royalty tracking, real-time support chat, and AI-powered ticket handling.
+BookLeaf is a full-stack self-publishing book support AI-powered platform that connects **Authors** and **Admins** through a structured workflow covering book management, royalty tracking, real-time support chat, and AI-powered ticket handling.
 
 ---
 
@@ -131,7 +131,6 @@ bookleaf/
     │   │   │   └── Book.jsx         # Single book view
     │   │   ├── Support/
     │   │   │   ├── Support.jsx      # Admin support + real-time chat
-    │   │   │   ├── AuthorSupport.jsx # Author support + real-time chat
     │   │   │   ├── CreateTicket.jsx # Create ticket modal
     │   │   │   └── Ticket.jsx       # Ticket detail page
     │   │   └── User/
@@ -224,7 +223,7 @@ npm install
 npm run dev
 ```
 
-App starts at `http://localhost:5173`
+App starts at `http://localhost:5173` || || `https://bookleaf-lac.vercel.app`
 
 ---
 
