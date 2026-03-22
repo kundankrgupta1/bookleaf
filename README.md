@@ -2,7 +2,7 @@
 
 BookLeaf is a full-stack self-publishing platform that connects **Authors** and **Admins** through a structured workflow covering book management, royalty tracking, real-time support chat, and AI-powered ticket handling.
 
----
+----
 
 ## 🗂️ Table of Contents
 
